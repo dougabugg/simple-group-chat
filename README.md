@@ -1,1 +1,2 @@
 # simple-group-chat
+Existing centralized social media platforms are proprietary, unreliable, and can be difficult to use (requiring certain system specs or account verification). I want to build a simple to use group chat app, that is only centralized to the extent of making offline communication possible. It at a minimum will allow group chats with text and multimedia support, and potentially support real time voice and video calls in the future.
